@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 and CSS3 - Code Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Code Generator</h1>
+    </header>
+    <main>
+        <section id="instructions">
+            <h2>Instructions</h2>
+            <p><b>In this section, follow the prompts to complete your code:</b></p><br>
+            <p>1. Type <b>&lt;!DOCTYPE html&gt;</b>, then press [Enter].</p>
+			<p>2. Type <b>&lt;html&gt;</b>, press [Enter].</p>
+			<p>3. Press [Spacebar] three times, then type <b>&lt;head&gt;</b>.</p>
+			<p>4. Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/head&gt;</b>.</p>
+			<p>5. Press [Enter], press [Spacebar] three times, then type <b>&lt;body&gt;</b>.</p>
+			<p>6. Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/body&gt;</b>.</p>
+			<p>7. Click the blank line above the closing <b>&lt;/head&gt;</b> tag, press [Spacebar] six times, 
+			then type <b>&lt;title&gt;</b>Spotted Wren Garden Center<b>&lt;/title&gt;</b>.</p>
+			<p>8. Click at the end of the line containing the "title" element, then press [Enter].
+			<p>9. Press [Spacebar] six times, then type <b>&lt;!--</b>.</p>
+			<p>10. Press [Enter] twice, press [Spacebar] six times, then type <b>--&gt;</b>.</p>
+			<p>11. Click the blank line between the opening and closing comment tags, press [Spacebar]
+			nine times, type <b>Spotted Wren Garden Center main web page</b>, then press [Enter].<p>
+			<p>12. Press [Spacebar] nine times, type <b>Filename: index.html</b>, then press [Enter] twice
+			You can include blank lines within a comment to improve readability.</p>
+			<p>13. Press [Spacebar] nine times, type <b>Author:</b>, press [Spacebar] three times, 
+			type your <b>first and last name</b>, then press [Enter]</p>
+			<p>14. Press [Spacebar] nine times, type <b> Date:</b>, press [Spacebar] five times, type today’s date,then press [Enter]</p>
+			<p>15. Click the blank line between the opening and closing &lt;body&gt; tags, press [Spacebar] six times, then type <b>&lt;h1&gt;Spotted Wren Garden Center&lt;/h1&gt;</b>.</p>
+			<p>16. Press [Enter], press [Spacebar] six times, then type <b>&lt;p&gt;For your year-round garden and yard needs, with a focus on the unsual and hard to find.&lt;/p&gt;</b>.</p>
+			<p>17. Press [Enter], press [Spacebar] six times, then type <b>&lt;p&gt;(402) 555-9736&lt;/p&gt;</b>.</p>
+        </section>
+        <section id="editors">
+            <div class="editor">
+                <h2>HTML</h2>
+                <textarea id="html-editor" rows="27" cols="65" placeholder="Write your HTML code here"></textarea>
+            </div>
+            <div class="editor">
+                <h2>CSS</h2>
+                <textarea id="css-editor" rows="27" cols="65" placeholder="Write your CSS code here"></textarea>
+            </div>
+			<div class="editor">
+                <h2>JavaScript</h2>
+                <textarea id="js-editor" rows="7" cols="65" placeholder="No JavaScript code is required in this exercise."></textarea>
+            </div>
+        </section>
+        <section id="output">
+            <h2>Final View</h2>
+            <iframe id="output-frame" sandbox="allow-scripts allow-same-origin"></iframe>
+        </section>
+        <section id="controls">
+            <button id="execute-button">Execute</button>
+        </section>
+    </main>
+	
+	<div class="return">
+		<a href="index.html" class="return">Return</a>
+	</div>
+    <footer>
+        <p>&copy; 2024 Code Generator</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
