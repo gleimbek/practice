@@ -1,0 +1,47 @@
+{
+	"unit_A": [
+            "<b>STEP 1.</b> Type <b>&lt;!DOCTYPE html&gt;</b>, then press [Enter].",
+            "<b>STEP 2.</b> Type <b>&lt;html&gt;</b>, press [Enter] twice, then type <b>&lt;/html&gt;</b>.",
+            "<b>STEP 3.</b> Click the blank line between the opening and closing html tags, press [Spacebar] three times, then type <b>&lt;head&gt;</b>.",
+	    "<b>STEP 4.</b> Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/head&gt;</b>.",
+	    "<b>STEP 5.</b> Press [Enter], press [Spacebar] three times, then type <b>&lt;body&gt;</b>.",
+	    "<b>STEP 6.</b> Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/body&gt;</b>.",
+	    "<b>STEP 7.</b> Click the blank line above the closing <b>&lt;/head&gt;</b> tag, press [Spacebar] six times, then type <b>&lt;title&gt;</b>Spotted Wren Garden Center<b>&lt;/title&gt;</b>.",
+     	    "<b>STEP 8.</b> Click at the end of the line containing the <b>title</b> element, then press [Enter].",
+	    "<b>STEP 9.</b> Press [Spacebar] six times, then type <b>&lt;!--</b>.",
+	    "<b>STEP 10.</b> Press [Enter] twice, press [Spacebar] six times, then type <b>--&gt;</b>.",
+	    "<b>STEP 11.</b> Click the blank line between the opening and closing comment tags, press [Spacebar] nine times, type <b>Spotted Wren Garden Center main web page</b>, then press [Enter].",
+	    "<b>STEP 12.</b> Press [Spacebar] nine times, type <b>Filename: index.html</b>, then press [Enter] twice. You can include blank lines within a comment to improve readability.",
+	    "<b>STEP 13.</b> Press [Spacebar] nine times, type <b>Author:</b>, press [Spacebar] three times, type your <b>first and last name</b>, then press [Enter].",
+	    "<b>STEP 14.</b> Press [Spacebar] nine times, type <b> Date:</b>, press [Spacebar] five times, type today’s date,then press [Enter].",
+	    "<b>STEP 15.</b> Click the blank line between the opening and closing &lt;body&gt; tags, press [Spacebar] six times, then type <b>&lt;h1&gt;Spotted Wren Garden Center&lt;/h1&gt;</b>.",
+	    "<b>STEP 16.</b> Press [Enter], press [Spacebar] six times, then type <b>&lt;p&gt;For your year-round garden and yard needs, with a focus on the unsual and hard to find.&lt;/p&gt;</b>.",
+	    "<b>STEP 17.</b> Press [Enter], press [Spacebar] six times, then type <b>&lt;p&gt;(402) 555-9736&lt;/p&gt;</b>."
+			
+        ],	
+		
+	"unit_A_2 = [
+            "<b>STEP 1.</b> Type <b>&lt;!DOCTYPE html&gt;</b>, then press [Enter].",
+            "<b>STEP 2.</b> Type <b>&lt;html&gt;</b>, press [Enter] twice, then type <b>&lt;/html&gt;</b>.",
+            "<b>STEP 3.</b> Click the blank line between the opening and closing html tags, press [Spacebar] three times, then type <b>&lt;head&gt;</b>.",
+	    "<b>STEP 4.</b> Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/head&gt;</b>.",
+	    "<b>STEP 5.</b> Press [Enter], press [Spacebar] three times, then type <b>&lt;body&gt;</b>.",
+	    "<b>STEP 6.</b> Press [Enter] twice, press [Spacebar] three times, then type <b>&lt;/body&gt;</b>.",
+	    "<b>STEP 7.</b> Click the blank line above the closing <b>&lt;/head&gt;</b> tag, press [Spacebar] six times, then type <b>&lt;title&gt;</b>Spotted Wren Garden Center<b>&lt;/title&gt;</b>.",
+	    "<b>STEP 8.</b> Click at the end of the line containing the <b>title</b> element, then press [Enter].",
+	    "<b>STEP 9.</b> Press [Spacebar] six times, then type <b>&lt;!--</b>.",
+	    "<b>STEP 10.</b> Press [Enter] twice, press [Spacebar] six times, then type <b>--&gt;</b>.",
+	    "<b>STEP 11.</b> Click the blank line between the opening and closing comment tags, press [Spacebar] nine times, type <b>Black Goose Bistro</b>, then press [Enter].",
+	    "<b>STEP 12.</b> Press [Spacebar] nine times, type <b>Filename: index.html</b>, then press [Enter] twice. You can include blank lines within a comment to improve readability.",
+	    "<b>STEP 13.</b> Press [Spacebar] nine times, type <b>Author:</b>, press [Spacebar] three times, type your <b>first and last name</b>, then press [Enter].",
+	    "<b>STEP 14.</b> Press [Spacebar] nine times, type <b> Date:</b>, press [Spacebar] five times, type today’s date,then press [Enter].",
+	    "<b>STEP 15.</b> Click the blank line between the opening and closing &lt;body&gt; tags, press [Spacebar] six times, then type <b>&lt;h1&gt;Black Goose Bistro&lt;/h1&gt;</b>, then press [Enter].",
+	    "<b>STEP 16.</b> Press [Spacebar] six times, then type <b>&lt;h2&gt;The Restaurant&lt;/h2&gt;</b>, then press [Enter].",
+	    "<b>STEP 17.</b> Press [Spacebar] six times, the type <b>&lt;p&gt;The Black Goose Bistro offers casual lunch and dinner fare in a hip atmosphere. The menu changes regularly to highlight the freshet ingredients.&lt;/p&gt;</b>, then press [Enter].",
+	    "<b>STEP 18.</b> Press [Spacebar] six times, then type <b>&lt;h2&gt;Catering&lt;/h2&gt;</b>, then press [Enter].",
+	    "<b>STEP 19.</b> Press [Spacebar] six times, the type <b>&lt;p&gt;You have fun... <em>we'll handle the cookinig</em>. Black Goose Catering can handle events from snacks for bridge club to elegant corporate fundraisers.&lt;/p&gt;</p>, then press [Enter].",
+	    "<b>STEP 20.</b> Press [Spacebar] six times, then type <b>&lt;h2&gt;Location and Hours&lt;/h2&gt;</b>, then press [Enter].",
+	    "<b>STEP 21.</b> Press [Spacebar] six times, the type <b>&lt;p&gt;Seekonk, Massachusetts; Monday through Thursday 11am to 9pm. Friday and Saturday, 11am to midnight&lt;/p&gt;</p>."
+
+        ]
+}
